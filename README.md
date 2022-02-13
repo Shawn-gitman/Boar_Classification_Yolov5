@@ -25,6 +25,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 * 24/7 anytime reach us to taegue52@daum.net, Taekyu Kang
 * Source available @ https://github.com/Shawn-gitman/Boar_Classification_Yolov5
+* Latest source available @ https://colab.research.google.com/drive/1srx0xl4lk-GyL9jiCvrVUU3dmfHh4SJu?usp=sharing
 
 
 ## Dependencies
