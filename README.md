@@ -59,4 +59,4 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 ## Update
 
-* 2/12/2022 - Several bugs revised & Github published completed.
+* 2/12/2022 - Several bugs revised & Github published
