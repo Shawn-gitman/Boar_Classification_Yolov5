@@ -7,7 +7,6 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 -Explanation Video KR @ https://b-flask.shawngitman.repl.co/try 👈 Click!
 
 ![Watch the video](boar_sample.jpg)
-[![Watch the video](p.png)](https://youtu.be/_OjmGL69u0E)
 
 ## How to Implement?
 
