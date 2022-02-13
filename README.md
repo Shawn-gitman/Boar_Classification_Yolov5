@@ -5,16 +5,19 @@
 YOLOv5 is a family of object detection architectures and models pretrained on the COCO dataset, and represents Ultralytics open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
 
 -ref. by Ultralytics
+-Explanation Video KR @ https://b-flask.shawngitman.repl.co/try 👈 Click!
 
 ![Watch the video](boar_sample.jpg)
 [![Watch the video](p.png)](https://youtu.be/_OjmGL69u0E)
 
-## How to Implement? 🐗 (See Demo @ https://b-flask.shawngitman.repl.co/try 👈 Click!) 
+## How to Implement? 🐗
 
 1. Save a copy of our google colaboratory in google drive.
 2. Create file "YOLO"("/content/drive/My Drive/YOLO").
 3. Upload Detect.py, best_original.pt, and "멧돼지데이터.zip" in "YOLO".
 4. Start google colaboratory by "Run All(Runtime-Run All)".
+
+-See Demo @ https://b-flask.shawngitman.repl.co/try 👈 Click!
 
 ## How can I download the results? 🐗
 
