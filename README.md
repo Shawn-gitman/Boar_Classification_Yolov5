@@ -15,6 +15,8 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 3. Upload Detect.py, best_original.pt, and "멧돼지데이터.zip" in "YOLO".
 4. Start google colaboratory by "Run All(Runtime-Run All)".
 
+See Demo @ https://b-flask.shawngitman.repl.co/try
+
 ## How can I download the results?
 
 Download "/content/res.zip"
