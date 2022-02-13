@@ -19,7 +19,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 ## How can I download the results?
 
-Download "/content/res.zip"
+* Download "/content/res.zip"
 
 ## Where should I contact?
 
@@ -40,7 +40,7 @@ Download "/content/res.zip"
 * torch
 * torchvision
 * tqdm
-vseaborn
+* seaborn
 * pandas
 * coremltools
 * vonnx>=1.8.1
@@ -50,9 +50,9 @@ vseaborn
 
 ## Reference
 
-1. Ultralytics
-2. Roboflowai
+* Ultralytics
+* Roboflowai
 
 ## Update
 
-1. 2/12/2022 - Several bugs revised & Github published completed.
+* 2/12/2022 - Several bugs revised & Github published completed.
