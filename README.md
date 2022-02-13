@@ -18,7 +18,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 * See Demo @ https://b-flask.shawngitman.repl.co/try (👈 Click!)
 * Download Detect.py @ https://drive.google.com/file/d/1mu2oaFDp3LWH-CfvfAsC6XzmhT_O0xDJ/view?usp=sharing
 * Download best_original.pt @ https://drive.google.com/file/d/1mNi-fPa6vP_aNYI6BSaP_rPfx_X53oAO/view?usp=sharing
-* Download 멧돼지데이터.zip @ https://drive.google.com/file/d/13wmHh9KHu0PwjmNNSjZyMvna9Le7eitX/view?usp=sharing (👈 Copyrightⓒ2008 by Kangwon National University. All Page content is property of Kangwon National University)
+* Download 멧돼지데이터.zip @ https://drive.google.com/file/d/13wmHh9KHu0PwjmNNSjZyMvna9Le7eitX/view?usp=sharing (👈 Copyrightⓒ2021 by Kangwon National University. All Page content is property of Kangwon National University)
 
 ## How can I download the results?
 
