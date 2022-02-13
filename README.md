@@ -38,13 +38,9 @@ torchvision>=0.8.1
 tqdm>=4.41.0
 seaborn>=0.11.0
 pandas
-
-# export --------------------------------------
-# coremltools>=4.1
-# onnx>=1.8.1
-# scikit-learn==0.19.2  # for coreml quantization
-
-# extras --------------------------------------
+coremltools>=4.1
+onnx>=1.8.1
+scikit-learn==0.19.2  # for coreml quantizatio
 thop  # FLOPS computation
 pycocotools>=2.0  # COCO mAP
 ```
