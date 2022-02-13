@@ -23,7 +23,8 @@ Download "/content/res.zip"
 
 ## Where should I contact?
 
-24/7 anytime reach us to taegue52@daum.net, Taekyu Kang
+* 24/7 anytime reach us to taegue52@daum.net, Taekyu Kang
+* Source are available @ https://github.com/Shawn-gitman/Boar_Classification_Yolov5
 
 
 ## Dependencies
