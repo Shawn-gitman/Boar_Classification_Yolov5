@@ -16,6 +16,9 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 * We've joined KNU Capstone Design Competitive Exhibition & Won the First Prize. Our Team introduced wild boar identification model's business suitability and efficiency.
 
+<p align="center" width="100%">
+    <img width="33%" src="prize_knu.png">
+</p>
 ![alt text](prize_knu.png)
 
 ## ● What We Targert For?
