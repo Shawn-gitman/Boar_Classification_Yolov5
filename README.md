@@ -1,6 +1,6 @@
 # Image Based Wild Boar Species Recognition using YOLOv5x 🐗
 
-!(boar_sample.jpg)
+![alt text](boar_sample.jpg)
 
 ## ● What is YOLOV5?
 
