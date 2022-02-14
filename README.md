@@ -19,7 +19,6 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 <p align="center" width="100%">
     <img width="33%" src="prize_knu.png">
 </p>
-![alt text](prize_knu.png)
 
 ## ● What We Targert For?
 
