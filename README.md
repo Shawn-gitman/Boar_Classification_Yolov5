@@ -2,7 +2,7 @@
 
 ![alt text](boar_sample.jpg)
 
-## ● What is YOLOV5?
+## ● What Is YOLOV5?
 
 YOLOv5 is a family of object detection architectures and models pretrained on the COCO dataset, and represents Ultralytics open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development(-ref. by Ultralytics).  
 
@@ -12,8 +12,12 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 * This Google colaboratory doesn't support model training. Check out our latest repository of (link) for more details.
 
+## ● What We Fargert For?
 
-## ● How to Implement?
+* We aim for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry to compare the performance between AI and human beings. 
+
+
+## ● How To Implement?
 
 1. Save a copy of our Google colaboratory in google drive.
 2. Create file "YOLO"("/content/drive/My Drive/YOLO").
@@ -25,11 +29,11 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 * Download best_original.pt @ https://drive.google.com/file/d/1mNi-fPa6vP_aNYI6BSaP_rPfx_X53oAO/view?usp=sharing
 * Download 멧돼지데이터.zip @ https://drive.google.com/file/d/13wmHh9KHu0PwjmNNSjZyMvna9Le7eitX/view?usp=sharing (Copyrightⓒ2021 by Kangwon National University. All Page content is property of Kangwon National University)
 
-## ● How can I download the results?
+## ● How Can I Download The Results?
 
 * Download "/content/res.zip"
 
-## ● Where should I contact?
+## ● Where Should I Contact?
 
 * 24/7 anytime reach us to taegue52@daum.net, Taekyu Kang
 * Source available @ https://github.com/Shawn-gitman/Boar_Classification_Yolov5
