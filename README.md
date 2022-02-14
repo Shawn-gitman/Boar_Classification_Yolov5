@@ -12,7 +12,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 1. Save a copy of our google colaboratory in google drive.
 2. Create file "YOLO"("/content/drive/My Drive/YOLO").
-3. Upload Detect.py, best_original.pt, and "멧돼지데이터.zip" in "YOLO".
+3. Upload Detect.py(Revised Detect.py), best_original.pt(Pre-trained model), and "멧돼지데이터.zip(Boar image dataset)" in "YOLO".
 4. Start google colaboratory by "Run All(Runtime-Run All)".
 
 * See Demo @ https://b-flask.shawngitman.repl.co/try (👈 Click!)
