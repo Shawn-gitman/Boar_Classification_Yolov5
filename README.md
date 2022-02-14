@@ -14,15 +14,15 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 ## ● What We Targert For?
 
-* We aim for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry to compare the performance between AI and human beings. 
+* We aim for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry to compare the work performance between AI and human beings. 
 
 
 ## ● How To Implement?
 
-1. Save a copy of our Google colaboratory in google drive.
+1. Save a copy of our Google colaboratory in google drive("File" - "Save a copy in drive").
 2. Create file "YOLO"("/content/drive/My Drive/YOLO").
 3. Upload Detect.py(Revised Detect.py), best_original.pt(Pre-trained model), and "멧돼지데이터.zip(Boar image dataset)" in file "YOLO". 
-4. Start Google colaboratory by "Run All(Runtime-Run All)".
+4. Start Google colaboratory by "Run All('Runtime' - 'Run All')".
 
 * See demo @ https://b-flask.shawngitman.repl.co/try (👈 Click!)
 * Download Detect.py @ https://drive.google.com/file/d/1mu2oaFDp3LWH-CfvfAsC6XzmhT_O0xDJ/view?usp=sharing
