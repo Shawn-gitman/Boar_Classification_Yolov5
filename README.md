@@ -20,7 +20,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 3. Upload Detect.py(Revised Detect.py), best_original.pt(Pre-trained model), and "멧돼지데이터.zip(Boar image dataset)" in file "YOLO". 
 4. Start Google colaboratory by "Run All(Runtime-Run All)".
 
-* See Demo @ https://b-flask.shawngitman.repl.co/try (👈 Click!)
+* See demo @ https://b-flask.shawngitman.repl.co/try (👈 Click!)
 * Download Detect.py @ https://drive.google.com/file/d/1mu2oaFDp3LWH-CfvfAsC6XzmhT_O0xDJ/view?usp=sharing
 * Download best_original.pt @ https://drive.google.com/file/d/1mNi-fPa6vP_aNYI6BSaP_rPfx_X53oAO/view?usp=sharing
 * Download 멧돼지데이터.zip @ https://drive.google.com/file/d/13wmHh9KHu0PwjmNNSjZyMvna9Le7eitX/view?usp=sharing (Copyrightⓒ2021 by Kangwon National University. All Page content is property of Kangwon National University)
