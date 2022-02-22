@@ -12,10 +12,6 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 * This Google colaboratory doesn't support model training. Check out our latest repository of (link) for more details.
 
-## ● KNU Capstone Design Competitive Exhibition - The First Prize
-
-* We've joined KNU Capstone Design Competitive Exhibition & Won the First Prize. Our Team introduced wild boar identification model's business suitability and efficiency.
-
 ## ● What We Targert For?
 
 * We aim for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry to compare AI and a human being's work performance. 
