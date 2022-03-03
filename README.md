@@ -14,7 +14,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 ## Before Starting
 
 This Google colaboratory doesn't support model training. Check out our latest repository of (www.link.com) for more details.
-2
+
 ## What We Targert For?
 
 This project aims for a low workforce, fast model training, and a cost-effective way to classify boar species. Final results are utilized for Forest and Environmental Industry.
