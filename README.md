@@ -2,43 +2,43 @@
 
 ![alt text](boar_sample.jpg)
 
-## ● What Is YOLOV5?
+## What Is YOLOV5?
 
 YOLOv5 is a family of object detection architectures and models pretrained on the COCO dataset, and represents Ultralytics open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development(-ref. by Ultralytics).  
 
 * Explanation Video KR @ https://www.youtube.com/watch?v=_OjmGL69u0E&t=1s (👈 Click!)
 
-## ● Before Starting
+## Before Starting
 
 This Google colaboratory doesn't support model training. Check out our latest repository of (www.link.com) for more details.
 
-## ● What We Targert For?
+## What We Targert For?
 
 This project aims for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry.
 
 ![alt text](work_performance.png)
 
-## ● Research Motivation 
+## Research Motivation 
 
 * Lately, ASF(African Swine Fever) conviction cases arised significantly and caused the agricultural sector an estimated billon dollars in damage.
 * Human conventional methods are time expensive and caused amount of annotation mistakes.
 * Contrast to previous methods, employing artificial intelligence is cost-effective, accurate, and fast in monitoring boar species.
 * YOLO(You Only Look Once) has been popular for animal classification which fits well with our research.
 
-## ● YOLO Architecture
+## YOLO Architecture
 
 ![alt text](yolo_architecture.png)
 * YOLO is composed with 24 convolutional layers and 2 fully connected layers. 
 * Covolutional layers train datas based on filter, weight, and bias.
 * Fully connected layers transfer 2d to 1d array which is used for classification results.
 
-## ● Why YOLOv5x?
+## Why YOLOv5x?
 
 ![alt_text](yolov5_performance_comparison.png)
 *  YOLOv5 is a leading and cutting edge technology for object detection.
 *  YOLOv5x has higher MaP(Mean Average Precision) compare to YOLOv5s, YOLOv5m, and YOLOv5l. 
 
-## ● Research Roadmap
+## Research Roadmap
 
 1. Label images
 2. Split image datas into 3 sets(Training - 70%, Validation - 20%, Test - 10%)
@@ -46,18 +46,18 @@ This project aims for low workforce, fast model training, and cost effective way
 4. Evaluate the model accuaracy 
 5. Use model for future classification
 
-## ● Image Labeling
+## Image Labeling
 
 Used LabelImg, a multi-various tool for annotating tags.
 ![alt_text](labelImg.png)
 
-## ● Spliting Image Datas
+## Spliting Image Datas
 
 Data was separated to 70% of training set, 20% of validation set, and 10% of test set.
 
 ![alt_text](data_split.png)
 
-## ● Model Evaluation
+## Model Evaluation
 
 * MaP(Mean Average Precision) is used for model evaluation and mearsurement.
 * IOU(Intersection Over Union) is an evaluation metric used to measure accuracy of an object detector on a particular dataset.
@@ -65,19 +65,19 @@ Data was separated to 70% of training set, 20% of validation set, and 10% of tes
 * Precision is the number of relevant documents retrieved by a search divided by the total number of documents retrieved by that search.
 * A precision-recall curve is a plot of the precision (y-axis) and the recall (x-axis) for different thresholds, much like the ROC curve.
 
-## ● Model Optimization & Improvment Method: Hyperparameter Tuning
+## Model Optimization & Improvment Method: Hyperparameter Tuning
 
 * Hyperparameter tuning reolves overfitting issues and increases MaP scores.
 * YOLOv5 has at least 32 hyperparameters which is used for model tuning. Slight hyperparameter combination in between values can improve the model significantly.
 * Genetic Algorithm is used for searching hyperparameters effectively and increasing model accuracy.
 
-## ● Data Sampling
+## Data Sampling
 
 * Data Sampling minimizes dataset scale that follows class ratio.
 * Data sampling is used for Genetic Algorithm. Tt is cost and time effective way to find hyperparameters.
 
 
-## ● How To Implement?
+## How To Implement?
 
 1. Save a copy of our Google colaboratory in google drive("File" - "Save a copy in drive").
 2. Create file "YOLO"("/content/drive/My Drive/YOLO").
@@ -88,18 +88,18 @@ Data was separated to 70% of training set, 20% of validation set, and 10% of tes
 * Download Detect.py @ https://drive.google.com/file/d/1mu2oaFDp3LWH-CfvfAsC6XzmhT_O0xDJ/view?usp=sharing
 * Download best_original.pt @ https://drive.google.com/file/d/1mNi-fPa6vP_aNYI6BSaP_rPfx_X53oAO/view?usp=sharing
 
-## ● How Can I Download The Results?
+## How Can I Download The Results?
 
 Download "/content/res.zip"
 
-## ● Where Should I Contact?
+## Where Should I Contact?
 
 * 24/7 anytime reach us to taegue52@daum.net, Taekyu Kang
 * Source available @ https://github.com/Shawn-gitman/Boar_Classification_Yolov5
 * Latest source available @ https://colab.research.google.com/drive/1srx0xl4lk-GyL9jiCvrVUU3dmfHh4SJu?usp=sharing
 
 
-## ● Dependencies
+## Dependencies
 
 * Cython
 * matplotlib
@@ -120,7 +120,7 @@ Download "/content/res.zip"
 * thop
 * pycocotools>=2.0
 
-## ● Reference
+## Reference
 
 * Ultralytics
 * Roboflowai
@@ -128,6 +128,6 @@ Download "/content/res.zip"
 * https://en.wikipedia.org/wiki/Precision_and_recall#:~:text=Recall%20is%20the%20number%20of,documents%20retrieved%20by%20that%20search.
 * https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/#:~:text=A%20precision%2Drecall%20curve%20is,constant%20class%20in%20all%20cases.
 
-## ● Update
+## Update
 
 * 2/12/2022 - Several bugs revised & Github pushed.
