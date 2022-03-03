@@ -50,6 +50,8 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 ## ● Image Labeling
 
+![alt_text](labelImg.png)
+
 * Used LabelImg, a multi-various tool for annotating tags.
 
 ## ● Spliting Image Datas
