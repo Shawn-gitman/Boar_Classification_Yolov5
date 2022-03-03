@@ -14,13 +14,13 @@ This Google colaboratory doesn't support model training. Check out our latest re
 
 ## What We Targert For?
 
-This project aims for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry.
+This project aims for a low workforce, fast model training, and a cost-effective way to classify boar species. Final results are utilized for Forest and Environmental Industry.
 
 ![alt text](work_performance.png)
 
 ## Research Motivation 
 
-* ASF(African Swine Fever) conviction cases arised significantly lately and caused the agricultural sector an estimated billon dollars in damage.
+* ASF(African Swine Fever) conviction cases arose significantly lately and caused the agricultural sector an estimated billion dollars in damage.
 * Human conventional methods are time expensive and caused amount of annotation mistakes.
 * Contrast to previous methods, employing artificial intelligence is cost-effective, accurate, and fast in monitoring boar species.
 * YOLO(You Only Look Once) has been popular for animal classification which fits well with our research.
@@ -28,8 +28,8 @@ This project aims for low workforce, fast model training, and cost effective way
 ## YOLO Architecture
 
 ![alt text](yolo_architecture.png)
-* YOLO is composed with 24 convolutional layers and 2 fully connected layers. 
-* Covolutional layers train datas based on filter, weight, and bias.
+* YOLO is composed of 24 convolutional layers and 2 fully connected layers. 
+* Convolutional layers train datas based on filter, weight, and bias.
 * Fully connected layers transfer 2d to 1d array which is used for classification results.
 
 ## Why YOLOv5x?
@@ -67,14 +67,14 @@ Data was separated to 70% of training set, 20% of validation set, and 10% of tes
 
 ## Model Optimization & Improvment Method: Hyperparameter Tuning
 
-* Hyperparameter tuning reolves overfitting issues and increases MaP scores.
-* YOLOv5 has at least 32 hyperparameters which is used for model tuning. Slight hyperparameter combination in between values can improve the model significantly.
+* Hyperparameter tuning resolves overfitting issues and increases MaP scores.
+* YOLOv5 has at least 32 hyperparameters which are used for model tuning. Slight hyperparameter combination in between values can improve the model significantly.
 * Genetic Algorithm is used for searching hyperparameters effectively and increasing model accuracy.
 
 ## Data Sampling
 
 * Data Sampling minimizes dataset scale that follows class ratio.
-* Data sampling is used for Genetic Algorithm. Tt is cost and time effective way to find hyperparameters.
+* Data sampling is used for Genetic Algorithm. It is a cost and time-effective way to find hyperparameters.
 
 
 ## How To Implement?
