@@ -16,7 +16,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 * This project aims for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry to compare work performance.
 
-![alt text](work_performance.jpg)
+![alt text](work_performance.png)
 
 ## ● Research Motivation 
 
