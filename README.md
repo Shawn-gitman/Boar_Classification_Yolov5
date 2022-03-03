@@ -20,7 +20,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 * Lately, ASF(African Swine Fever) conviction cases has arised significantly and caused the agricultural sector an estimated billon dollars in damage.
 * Conventional method is time expensive and caused amount of annotation mistakes.
-* Contrast to previous methods, employing artificial intelligence is cost-effective, accurate, and fast to monitor boar species.
+* Contrast to previous methods, employing artificial intelligence is cost-effective, accurate, and fast in monitoring boar species.
 * YOLO(You Only Look Once) has been popular for animal classification which fits well with boar classification.
 
 ## ● YOLO Architecture
