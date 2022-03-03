@@ -56,6 +56,7 @@ Used LabelImg, a multi-various tool for annotating tags.
 ## ● Spliting Image Datas
 
 Data was separated to 70% of training set, 20% of validation set, and 10% of test set.
+
 ![alt_text](data_split.png)
 
 ## ● Model Evaluation
