@@ -14,7 +14,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 ## ● What We Targert For?
 
-* This project aims for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry to compare AI models' and human beings' performance.
+* This project aims for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry to compare work performance.
 
 ## ● Research Motivation 
 
