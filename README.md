@@ -18,10 +18,16 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 ## ● Research Motivation 
 
-* Among Korean peninsula, ASF(African Swine Fever) conviction cases has arised significantly and has caused the agricultural sector an estimated billon dollars in damage.
+* Lately, ASF(African Swine Fever) conviction cases has arised significantly and caused the agricultural sector an estimated billon dollars in damage.
 * Conventional method is time expensive and caused amount of annotation mistakes.
 * Contrast to previous methods, employing artificial intelligence is cost-effective, accurate, and fast to monitor boar species.
-* YOLO(You Only Look Once) has been popular for animal classification which fits well with our research.
+* YOLO(You Only Look Once) has been popular for animal classification which fits well with boar classification.
+
+## ● YOLO Architecture
+
+* YOLO is composed with 24 convolutional layers and 2 fully connected layers. 
+* Covolutional layers is in charge of training datas based on filter, weight, and bias.
+* Fully connected layers transfer 2d to 1d array in which it is used for classification results.
 
 
 ## ● How To Implement?
