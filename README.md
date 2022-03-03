@@ -58,6 +58,17 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 * Precision is the number of relevant documents retrieved by a search divided by the total number of documents retrieved by that search.
 * A precision-recall curve is a plot of the precision (y-axis) and the recall (x-axis) for different thresholds, much like the ROC curve.
 
+## ● Model Optimization & Improvment Method: Hyperparameter Tuning
+
+* Hyperparameter tuning reolves overfitting issues and increases MaP scores.
+* YOLOv5 has at least 32 hyperparameters which is used for model tuning. Slight mixtures in between hyperparameters can improve the model significantly.
+* Genetic Algorithm is used for searching hyperparameters and increasing model accuracy.
+
+## ● Data Sampling
+
+* 
+
+
 ## ● How To Implement?
 
 1. Save a copy of our Google colaboratory in google drive("File" - "Save a copy in drive").
