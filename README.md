@@ -46,7 +46,7 @@ This project aims for low workforce, fast model training, and cost effective way
 4. Evaluate the model accuaracy 
 5. Use model for future classification
 
-## Image Labeling
+## Image Labeling With Box Annotation
 
 Used LabelImg, a multi-various tool for annotating tags.
 ![alt_text](labelImg.png)
