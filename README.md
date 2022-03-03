@@ -42,7 +42,21 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 4. Evaluate the model accuaracy 
 5. Use model for future classification
 
+## ● Image Labeling
 
+* Used LabelImg, a multi-various tool for annotating tags.
+
+## ● Spliting Image Datas
+
+(image)
+
+## ● Model Evaluation
+
+* MaP(Mean Average Precision) is used for model evaluation and mearsurement.
+* IOU(Intersection Over Union) is an evaluation metric used to measure accuracy of an object detector on a particular dataset.
+* Recall is the number of relevant documents retrieved by a search divided by the total number of existing relevant documents.
+* Precision is the number of relevant documents retrieved by a search divided by the total number of documents retrieved by that search.
+* A precision-recall curve is a plot of the precision (y-axis) and the recall (x-axis) for different thresholds, much like the ROC curve.
 
 ## ● How To Implement?
 
@@ -91,6 +105,9 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 * Ultralytics
 * Roboflowai
+* https://pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/
+* https://en.wikipedia.org/wiki/Precision_and_recall#:~:text=Recall%20is%20the%20number%20of,documents%20retrieved%20by%20that%20search.
+* https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/#:~:text=A%20precision%2Drecall%20curve%20is,constant%20class%20in%20all%20cases.
 
 ## ● Update
 
