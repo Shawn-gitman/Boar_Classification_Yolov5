@@ -36,7 +36,6 @@ This project aims for low workforce, fast model training, and cost effective way
 ## ● Why YOLOv5x?
 
 ![alt_text](yolov5_performance_comparison.png)
-
 *  YOLOv5 is a leading and cutting edge technology for object detection.
 *  YOLOv5x has higher MaP(Mean Average Precision) compare to YOLOv5s, YOLOv5m, and YOLOv5l. 
 
