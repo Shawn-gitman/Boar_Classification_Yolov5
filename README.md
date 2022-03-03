@@ -90,7 +90,7 @@ Data was separated to 70% of training set, 20% of validation set, and 10% of tes
 
 ## ● How Can I Download The Results?
 
-* Download "/content/res.zip"
+Download "/content/res.zip"
 
 ## ● Where Should I Contact?
 
