@@ -27,6 +27,8 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 ## ● YOLO Architecture
 
+![alt text](yolo_architecture.png)
+
 * YOLO is composed with 24 convolutional layers and 2 fully connected layers. 
 * Covolutional layers train datas based on filter, weight, and bias.
 * Fully connected layers transfer 2d to 1d array in which it is used for classification results.
