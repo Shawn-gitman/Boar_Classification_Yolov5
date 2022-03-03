@@ -48,7 +48,7 @@ This project aims for a low workforce, fast model training, and a cost-effective
 
 ## Image Labeling With Box Annotation
 
-Used LabelImg, a multi-various tool for annotating tags.
+Used LabelImg, including multi-various tools for annotating tags.
 ![alt_text](labelImg.png)
 
 ## Spliting Image Datas
