@@ -38,7 +38,7 @@ This project aims for low workforce, fast model training, and cost effective way
 *  YOLOv5 is a leading and cutting edge technology for object detection.
 *  YOLOv5x has higher MaP(Mean Average Precision) compare to YOLOv5s, YOLOv5m, and YOLOv5l. 
 
-## Research Roadmap
+## Research & Experiment Roadmap
 
 1. Label images
 2. Split image datas into 3 sets(Training - 70%, Validation - 20%, Test - 10%)
