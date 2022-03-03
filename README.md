@@ -28,7 +28,6 @@ This project aims for low workforce, fast model training, and cost effective way
 ## ● YOLO Architecture
 
 ![alt text](yolo_architecture.png)
-
 * YOLO is composed with 24 convolutional layers and 2 fully connected layers. 
 * Covolutional layers train datas based on filter, weight, and bias.
 * Fully connected layers transfer 2d to 1d array in which it is used for classification results.
