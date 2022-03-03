@@ -30,8 +30,18 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 * Fully connected layers transfer 2d to 1d array in which it is used for classification results.
 
 ## ● Why YOLOv5x?
+
 *  YOLOv5 is a leading and cutting edge technology for object detection.
-*  YOLOv5x has higher MaP in model training compare to YOLOv5s, YOLOv5m, and YOLOv5l. 
+*  YOLOv5x has higher MaP(Mean Average Precision) compare to YOLOv5s, YOLOv5m, and YOLOv5l. 
+
+## ● Research Roadmap
+
+1. Label images
+2. Split image datas into 3 sets(Training - 70%, Validation - 20%, Test - 10%)
+3. Start model training with training dataset
+4. Evaluate the model accuaracy 
+5. Use model for future classification
+
 
 
 ## ● How To Implement?
