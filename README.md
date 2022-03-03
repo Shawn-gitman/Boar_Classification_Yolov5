@@ -74,7 +74,7 @@ Data was separated to 70% of training set, 20% of validation set, and 10% of tes
 ## ● Data Sampling
 
 * Data Sampling minimizes dataset scale that follows class ratio.
-* Data sampling is used for Genetic Algorithm and it is cost and time effective way to find hyperparameters.
+* Data sampling is used for Genetic Algorithm. Tt is cost and time effective way to find hyperparameters.
 
 
 ## ● How To Implement?
