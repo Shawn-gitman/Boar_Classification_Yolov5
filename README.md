@@ -56,7 +56,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 ## ● Spliting Image Datas
 
-(image)
+![alt_text](data_split.png)
 
 ## ● Model Evaluation
 
