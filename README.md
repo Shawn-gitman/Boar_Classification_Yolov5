@@ -68,7 +68,7 @@ Data was separated to 70% of training set, 20% of validation set, and 10% of tes
 ## ● Model Optimization & Improvment Method: Hyperparameter Tuning
 
 * Hyperparameter tuning reolves overfitting issues and increases MaP scores.
-* YOLOv5 has at least 32 hyperparameters which is used for model tuning. Slight mixtures in between hyperparameters can improve the model significantly.
+* YOLOv5 has at least 32 hyperparameters which is used for model tuning. Slight hyperparameter combination in between values can improve the model significantly.
 * Genetic Algorithm is used for searching hyperparameters effectively and increasing model accuracy.
 
 ## ● Data Sampling
