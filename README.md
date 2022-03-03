@@ -50,12 +50,12 @@ This project aims for low workforce, fast model training, and cost effective way
 
 ## ● Image Labeling
 
-![alt_text](labelImg.png)
-
 Used LabelImg, a multi-various tool for annotating tags.
+![alt_text](labelImg.png)
 
 ## ● Spliting Image Datas
 
+Data was separated to 70% of training set, 20% of validation set, and 10% of test set.
 ![alt_text](data_split.png)
 
 ## ● Model Evaluation
