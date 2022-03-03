@@ -14,7 +14,14 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 ## ● What We Targert For?
 
-* This project aims for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry to compare AI models' and human beings' work performance.
+* This project aims for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry to compare AI models' and human beings' performance.
+
+## ● Research Motivation 
+
+* Among Korean peninsula, ASF(African Swine Fever) conviction cases has arised significantly and has caused the agricultural sector an estimated billon dollars in damage.
+* Conventional method is time expensive and caused amount of annotation mistakes.
+* Contrast to previous methods, employing artificial intelligence is cost-effective, accurate, and fast to monitor boar species.
+* YOLO(You Only Look Once) has been popular for animal classification which fits well with our research.
 
 
 ## ● How To Implement?
