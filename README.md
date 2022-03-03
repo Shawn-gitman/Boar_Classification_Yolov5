@@ -14,7 +14,7 @@ This Google colaboratory doesn't support model training. Check out our latest re
 
 ## ● What We Targert For?
 
-This project aims for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry to compare work performance.
+This project aims for low workforce, fast model training, and cost effective way to classify boar species. Final results are utilized for Forest and Environmental Industry.
 
 ![alt text](work_performance.png)
 
