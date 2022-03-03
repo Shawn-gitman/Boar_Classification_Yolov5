@@ -62,11 +62,12 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 
 * Hyperparameter tuning reolves overfitting issues and increases MaP scores.
 * YOLOv5 has at least 32 hyperparameters which is used for model tuning. Slight mixtures in between hyperparameters can improve the model significantly.
-* Genetic Algorithm is used for searching hyperparameters and increasing model accuracy.
+* Genetic Algorithm is used for searching hyperparameters effectively and increasing model accuracy.
 
 ## ● Data Sampling
 
-* 
+* Data Sampling minimizes dataset scale that follows class ratio.
+* Data sampling is used for Genetic Algorithm and it is cost and time effective way to find hyperparameters.
 
 
 ## ● How To Implement?
