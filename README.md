@@ -90,7 +90,6 @@ Data was separated to 70% of training set, 20% of validation set, and 10% of tes
 3. Upload Detect.py(Revised Detect.py), best_original.pt(Pre-trained model), and "멧돼지데이터.zip(Boar image dataset)" in file "YOLO". 
 4. Start Google colaboratory by "Run All('Runtime' - 'Run All')".
 
-* See demo @ https://b-flask.shawngitman.repl.co/try (👈 Click!)
 * Download Detect.py @ https://drive.google.com/file/d/1mu2oaFDp3LWH-CfvfAsC6XzmhT_O0xDJ/view?usp=sharing
 * Download best_original.pt @ https://drive.google.com/file/d/1mNi-fPa6vP_aNYI6BSaP_rPfx_X53oAO/view?usp=sharing
 
