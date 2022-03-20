@@ -15,7 +15,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 👇(Watch Video) Click!👇
 [![Watch the video](thum2.png)](https://www.youtube.com/watch?v=NPsgw3J9M0o)
 
-## Before Starting
+## Kick Start
 
 This Google colaboratory doesn't support model training. Check out our latest repository of (www.link.com) for more details.
 
